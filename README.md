@@ -40,7 +40,7 @@ We are now awaiting the arrival of our ordered PCBs for hardware assembly and te
 
 ## 📦 Repository Includes
 
-- `/Design report` – Project report, analysis, and evaluation tables  
+- `/Design_Report` – Project report, analysis, and evaluation tables  
 - `PCB/` – Final PCB design files  
 - `Enclosure Design/` – SolidWorks files for enclosure and internal structure  
 
